@@ -1,10 +1,106 @@
-- 👋 Hi, I’m @skimura-soft
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> HII PENGGUNA BOT👋
 
-<!---
-skimura-soft/skimura-soft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+
+<img src="https://kaltengcyberhosting.xyz/img/alana.jpg" alt="Hi Ka" width="600">
+
+<a href="https://avatars.githubusercontent.com/u/81602606?v=4"><img title="Aulia Rahman" src="https://img.shields.io/badge/Aulia Rahman-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/skimura-soft"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AULIA RAHMAN-green.svg?style=for-the-badge&logo=github"></a>
+
+</p>
+
+<details>
+
+ 
+
+</details>
+
+### BAHAN BOT <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+
+* `TERMUX`
+* `VPS`
+* `RDP`
+
+### Download Termux Di? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+
+[`F-DROID TERMUX V.118`](https://f-droid.org/repo/com.termux_118.apk)
+
+[`F-DROID TERMUX V.117`](https://f-droid.org/repo/com.termux_117.apk)
+
+[`F-DROID TERMUX V.116`](https://f-droid.org/repo/com.termux_116.apk)
+
+
+### Cara Install For Termux  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+
+```
+$ pkg install git
+
+$ pkg install nodejs [error]
+
+$ pkg upgrade nodejs
+
+$ git clone source nya
+
+$ cd source name
+
+$ npm i atau npm install
+
+$ node main.js atau npm start
+
+$ Tinggal scan kode qr, done
+
+```
+
+## Cara Install Rdp/Vps
+
+```
+$ apt install git
+
+$ apt install nodejs
+
+$ apt install ffmpeg
+
+$ git clone source yg km mau
+
+$ cd source name pling kanan
+
+$ npm install
+
+$ node main.js atau npm start
+```
+
+## Sosial Media Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+
+* [`Youtube Admin`](https://youtube.com/AuliaRahmanOfficial123)
+
+* [`Instagram Admin`](https://instagram.com/haskimuramods)
+
+* [`WhatsApp Admin`](https://wa.me/6285821676621)
+
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗔𝗹𝗹 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗕𝗼𝘁 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+
+
+* `ALLAH SWT`
+
+* `BAILEYS`
+
+* `MHANKBARBAR`
+
+* `Aqulz`
+
+* `Ramlan ID`
+
+* `Aulia Rahman`
+
+* `ZeroYt7`
+
+* `PENGGUNA BOT`
+
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
